@@ -21,7 +21,7 @@ knitr::knit_hooks$set(small.mar = function(before, options, envir) {
 
 # Welcome!
 
-This is the landing page for the 2023 summer Bible study course called "Behold Your God." This 13-week course was written and designed by the leaders of [Media Gratie](https://www.mediagratiae.org/behold-your-god-rethinking-god-biblically). This study is being offered as a virtual course during summer 2023 through [Grace Community Church Downtown](https://graceb3.org/downtown-campus/) in Iowa City. 
+This is the landing page for the 2023 summer Bible study course called "Behold Your God." This 13-week course was written and designed by the leaders of [Media Gratiae](https://www.mediagratiae.org/behold-your-god-rethinking-god-biblically). This study is being offered as a virtual course during summer 2023 through [Grace Community Church Downtown](https://graceb3.org/downtown-campus/) in Iowa City. 
 
 The treasure of the Christian life is knowing God, and the objective of this class is for students to know Him and His character. 
 

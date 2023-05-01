@@ -1,6 +1,6 @@
 # Welcome!
 
-This is the landing page for the 2023 summer Bible study course called "Behold Your God." This 13-week course was written and designed by the leaders of [Media Gratie](https://www.mediagratiae.org/behold-your-god-rethinking-god-biblically). This study is being offered as a virtual course during summer 2023 through [Grace Community Church Downtown](https://graceb3.org/downtown-campus/) in Iowa City. 
+This is the landing page for the 2023 summer Bible study course called "Behold Your God." This 13-week course was written and designed by the leaders of [Media Gratiae](https://www.mediagratiae.org/behold-your-god-rethinking-god-biblically). This study is being offered as a virtual course during summer 2023 through [Grace Community Church Downtown](https://graceb3.org/downtown-campus/) in Iowa City. 
 
 The treasure of the Christian life is knowing God, and the objective of this class is for students to know Him and His character. 
 
@@ -27,17 +27,17 @@ The **deadline** to sign up is **May 14, 2023**.
 
 The cost for the course is estimated at $25/person. The final cost will depend on the total number of students. The elders of Grace Community Church do not want this cost to prevent anyone from signing up; if the cost is a barrier for you, please contact Tabitha and she will help you get connected. 
 
-## [Zoom meeting information](zoom.html)
+## Zoom meeting information
 
-Follow the link to this page for the Zoom meeting information. 
+Refer to this page for the Zoom meeting information. 
 
-## [More information](faq.html)
+## More information
 
 For more information about this course, check out the FAQs on this page.  
 
-## [Supplementary online materials](materials.html)
+## Supplementary online materials
 
-Follow this link to see more online materials. Stuff here includes: 
+Check out this page to see more online materials. Stuff here includes: 
 
   - Where to find a copy of the Bible 
   
