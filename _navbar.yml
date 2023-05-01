@@ -1,25 +1,13 @@
 # NB: These are subheadings of 'navbar' 
 
-title: "GWAS tutorial"
+title: "Behold Your God: Summer course 2023"
 
 left:
     - icon: fa-home fa-lg
       href: index.html
-    - text: "Data information & quality control"
-      href: quality_control.html
-    - text: "Imputation"
-      href: imputation.html
-    - text: "Population Structure"
-      href: population_structure.html
-    - text: "Analysis"
-      menu:
-      - text: "Marginal analysis"
-        href: marginal_analysis.html 
-      - text: "Joint analysis"
-        href: joint_analysis.html
-    - text: "PostGWAS"
-      href: gwas-4.html # needs to be updated 
+    - text: "Zoom"
+      href: zoom.html
 right:
     github:
       icon: fa-github fa-lg
-      href: https://github.com/pbreheny/adv-gwas-tutorial
+      href: https://github.com/tabpeter/behold
