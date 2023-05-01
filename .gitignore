@@ -1,0 +1,12 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+data/
+_R
+inst/
+plink.exe
+magma
+annovar
+.DS_Store

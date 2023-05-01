@@ -1,0 +1,11 @@
+---
+title: 'Zoom link information'
+author: Tabitha Peter 
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+---
+
+
+As we get closer to time for the class to begin, checkout this page for the Zoom link/meeting ID/password. 
+
+
+Due to copyright concerns, the class meetings will **not** be recorded. 
