@@ -6,15 +6,15 @@ The treasure of the Christian life is knowing God, and the objective of this cla
 
 ## Start here
 
-This study will be offered via [Zoom](zoom.html) on the following Sunday evenings: 
+This study will be offered via [Zoom](zoom.html) on the following Wednesday evenings: 
 
-  - **May**: 21, 28
+  - **May**: 24, 31
   
-  - **June**: 4, 11, 18, 25 
+  - **June**: 7, 14, 21, 28 
   
-  - **July**: 2, 9, 16, 23, 30
+  - **July**: 5, 12, 19, 26
   
-  - **August**: 6, 13
+  - **August**: 2, 9, and 16
   
 All meetings will be held from 7-8:15 pm (CST). These meetings will consist of a 45-55 minute video lecture, followed by 15-20 minutes of discussion. 
 
