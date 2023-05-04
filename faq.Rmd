@@ -1,0 +1,19 @@
+---
+title: "Frequently asked questions"
+author: "Tabitha K. Peter"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Q: What if I do not yet consider myself to be a Christian? 
+
+As long as you have are intellectually charitable and want to learn, you are welcome to join the study. 
+
+### Q: Will the work I do in the workbook be shared with others?
+
+Although the class meetings will have some time for discussion, no sharing is compulsory. Nothing you do in the workbook will be turned in; the workbook is meant for your personal reflection only. 
+

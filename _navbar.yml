@@ -7,6 +7,10 @@ left:
       href: index.html
     - text: "Zoom"
       href: zoom.html
+    - text: "FAQ"
+      href: faq.html
+    - text: "Supplementary material"
+      href: materials.html
 right:
     github:
       icon: fa-github fa-lg

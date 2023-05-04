@@ -1,0 +1,20 @@
+---
+title: "Supplementary materials"
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bible study materials 
+
+These are some resources you might find helpful as you study the Bible; all of them are free: 
+
+  - [Matthew Henry's Commentary](https://www.biblestudytools.com/commentaries/matthew-henry-complete/) --- has details and reflections on each chapter of Bible
+  
+  - [Parallel Bible](https://www.wordproject.org/bibles/parallel/o/chinese.htm) is a tool for reading English side by side with other languages
+  
+  - [A searchable online Bible](https://www.biblegateway.com/) - great for comparing different translations. 
+  
+  - [Blue letter Bible](https://www.blueletterbible.org/) is a resource that you can use for studying the original text (e.g., the Greek words in a specific New Testament verse). This app will also help you find all the places in the Bible where a specific word is used, so you can study that word's meaning within the full context of Scripture. 
