@@ -4,7 +4,13 @@ date: '`r format(Sys.Date(), "%B %d, %Y")`'
 ---
 
 
-As we get closer to time for the class to begin, checkout this page for the Zoom link/meeting ID/password. 
+## Zoom meeting details 
+
+- Meeting ID: 915 8371 7297
+
+- Passcode: 586090
+
+- Link: https://uiowa.zoom.us/j/91583717297?pwd=QmJqQ0lzb0V3Q3ZmUXFYcWp5RklPZz09
 
 
 Due to copyright concerns, the class meetings will **not** be recorded. 
